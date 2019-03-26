@@ -1,0 +1,52 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.8.1",
+    "@material-ui/icons": "^3.0.1",
+    "@material-ui/styles": "^3.0.0-alpha.8",
+    "axios": "^0.18.0",
+    "fg-loadcss": "^2.1.0",
+    "google-maps-react": "^2.0.2",
+    "html2canvas": "^1.0.0-alpha.12",
+    "jspdf": "^1.5.3",
+    "jwt-decode": "^2.2.0",
+    "material-ui-background": "^0.1.2",
+    "material-ui-dropzone": "^2.0.0",
+    "material-ui-image": "^3.0.3",
+    "normalize.css": "^8.0.1",
+    "nuka-carousel": "^4.4.5",
+    "number-to-words": "^1.2.4",
+    "react": "^16.7.0",
+    "react-animated-slider": "^1.1.4",
+    "react-dom": "^16.7.0",
+    "react-dropzone": "^8.0.3",
+    "react-image-crop": "^6.0.9",
+    "react-image-gallery": "^0.8.12",
+    "react-redux": "^6.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.3",
+    "react-scroll-up-button": "^1.6.4",
+    "react-select": "^2.2.0",
+    "react-to-print": "^2.0.0-alpha-6",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "proxy": "http://localhost:5000"
+}
